@@ -192,8 +192,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b3db66df211fd40",
+  "active": "2d534746971fbc9b",
   "lastOpenFiles": [
+    "01-Patrones-Distribuidos/onion-architecture-distributed.md",
     "01-Patrones-Distribuidos/clean-architecture-distributed.md",
     "Clean-Onion-Architecture-Distributed.md",
     "01-Patrones-Distribuidos/Circuit-Breaker-Pattern.md",
