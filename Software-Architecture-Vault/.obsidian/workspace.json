@@ -117,8 +117,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "26cc383c4b2828cd",
+  "active": "5bb6464f6f781b22",
   "lastOpenFiles": [
+    "01-SemiSenior/Fundamentos-y-Patrones/onion-architecture.md",
+    "01-SemiSenior/Fundamentos-y-Patrones/CQRS-Patron-Implementacion-Practica.md",
     "01-SemiSenior/Fundamentos-y-Patrones/Clean-Architecture-Fundamentos.md",
     "01-SemiSenior/Fundamentos-y-Patrones",
     "01-SemiSenior",
