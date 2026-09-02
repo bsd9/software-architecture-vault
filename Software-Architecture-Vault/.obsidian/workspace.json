@@ -194,6 +194,8 @@
   },
   "active": "acec7da81dae599a",
   "lastOpenFiles": [
+    "01-Patrones-Distribuidos/Circuit-Breaker-Pattern.md",
+    "01-Patrones-Distribuidos",
     "02-Sistemas-Distribuidos/Outbox-Pattern.md",
     "_Contexto",
     "04-Estudio-Casos",
