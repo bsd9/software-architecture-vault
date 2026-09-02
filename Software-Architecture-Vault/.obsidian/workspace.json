@@ -165,7 +165,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-SemiSenior/Fundamentos-y-Patrones/CQRS-Patron-Implementacion-Practica.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -192,15 +191,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d534746971fbc9b",
+  "active": "26cc383c4b2828cd",
   "lastOpenFiles": [
+    "01-SemiSenior/Fundamentos-y-Patrones/CQRS-Patron-Implementacion-Practica.md",
     "01-SemiSenior/Fundamentos-y-Patrones/transactional-outbox-pattern.md",
     "01-SemiSenior/Fundamentos-y-Patrones/specification-pattern-dotnet-react.md",
     "01-SemiSenior/Fundamentos-y-Patrones/saga-pattern-implementacion.md",
     "01-SemiSenior/Fundamentos-y-Patrones/EF-Core-DbContext-Pattern.md",
     "01-SemiSenior/Fundamentos-y-Patrones/repository-unit-of-work-pattern.md",
     "01-SemiSenior/Fundamentos-y-Patrones/onion-architecture.md",
-    "01-SemiSenior/Fundamentos-y-Patrones/CQRS-Patron-Implementacion-Practica.md",
     "01-SemiSenior/Fundamentos-y-Patrones/Clean-Architecture-Fundamentos.md",
     "01-SemiSenior/Fundamentos-y-Patrones",
     "01-SemiSenior",
