@@ -11,10 +11,10 @@
             "id": "26cc383c4b2828cd",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -119,6 +119,9 @@
   },
   "active": "26cc383c4b2828cd",
   "lastOpenFiles": [
+    "01-SemiSenior/Fundamentos-y-Patrones/Clean-Architecture-Fundamentos.md",
+    "01-SemiSenior/Fundamentos-y-Patrones",
+    "01-SemiSenior",
     "Sin título.canvas",
     "01-Patrones-Distribuidos/repository-uow-vs-efcore.md",
     "01-Patrones-Distribuidos/CQRS-Architecture-Pattern.md",
