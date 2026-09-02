@@ -1,5 +1,5 @@
 ---
-title: 'CQRS: Patrón de Segregación de Responsabilidades'
+title: 'CQRS: Patrón de Segregación de Responsabilidades en .NET 10 y React'
 category: 01-SemiSenior/Fundamentos-y-Patrones
 tags:
   - dotnet10
@@ -8,12 +8,13 @@ tags:
   - vite
   - cqrs
   - architecture
-updated: '2026-09-02T04:17:11.028Z'
-created: '2026-09-02T04:17:11.028Z'
+updated: '2026-09-02T04:17:56.913Z'
+created: '2026-09-02T04:17:56.913Z'
 status: Approved
 complexity: Semi-Senior
 ---
 
-# CQRS Test Note
+# CQRS: Patrón de Segregación de Responsabilidades [Semi-Senior]
 
-Content here.
+## 1. Contexto General
+CQRS divide operaciones.
