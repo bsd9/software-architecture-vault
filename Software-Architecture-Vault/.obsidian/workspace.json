@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "164b41aff19e24b9",
+        "id": "1a4a02352cf6189d",
         "type": "tabs",
         "children": [
           {
-            "id": "6b3db66df211fd40",
+            "id": "1b463720c601d2ea",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -192,11 +192,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d534746971fbc9b",
+  "active": "1b463720c601d2ea",
   "lastOpenFiles": [
+    "Clean-Onion-Architecture-Distributed.md",
     "01-Patrones-Distribuidos/onion-architecture-distributed.md",
     "01-Patrones-Distribuidos/clean-architecture-distributed.md",
-    "Clean-Onion-Architecture-Distributed.md",
     "01-Patrones-Distribuidos/Circuit-Breaker-Pattern.md",
     "01-Patrones-Distribuidos",
     "02-Sistemas-Distribuidos/Outbox-Pattern.md",
