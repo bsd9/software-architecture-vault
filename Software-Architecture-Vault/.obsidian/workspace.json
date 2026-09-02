@@ -165,6 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01-SemiSenior/Fundamentos-y-Patrones/CQRS-Patron-Implementacion-Practica.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bb6464f6f781b22",
+  "active": "2d534746971fbc9b",
   "lastOpenFiles": [
     "01-SemiSenior/Fundamentos-y-Patrones/transactional-outbox-pattern.md",
     "01-SemiSenior/Fundamentos-y-Patrones/specification-pattern-dotnet-react.md",
