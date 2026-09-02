@@ -192,8 +192,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b463720c601d2ea",
+  "active": "5bb6464f6f781b22",
   "lastOpenFiles": [
+    "01-Patrones-Distribuidos/repository-uow-vs-efcore.md",
     "01-Patrones-Distribuidos/CQRS-Architecture-Pattern.md",
     "Clean-Onion-Architecture-Distributed.md",
     "01-Patrones-Distribuidos/onion-architecture-distributed.md",
