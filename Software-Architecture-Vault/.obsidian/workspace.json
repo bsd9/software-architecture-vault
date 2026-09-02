@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "67d14282739d10ec",
+        "id": "2abb2474323df2d4",
         "type": "tabs",
         "children": [
           {
-            "id": "acec7da81dae599a",
+            "id": "01f6da84d5c839c3",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -192,8 +192,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "acec7da81dae599a",
+  "active": "01f6da84d5c839c3",
   "lastOpenFiles": [
+    "01-Patrones-Distribuidos/clean-architecture-distributed.md",
+    "Clean-Onion-Architecture-Distributed.md",
     "01-Patrones-Distribuidos/Circuit-Breaker-Pattern.md",
     "01-Patrones-Distribuidos",
     "02-Sistemas-Distribuidos/Outbox-Pattern.md",
