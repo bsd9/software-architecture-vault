@@ -8,8 +8,8 @@ tags:
   - vite
   - cqrs
   - architecture
-updated: '2026-09-02T03:55:57.997Z'
-created: '2026-09-02T03:55:57.997Z'
+updated: '2026-09-02T03:56:37.351Z'
+created: '2026-09-02T03:56:37.351Z'
 status: Approved
 complexity: Semi-Senior
 ---
@@ -17,11 +17,7 @@ complexity: Semi-Senior
 # CQRS: Patrón de Segregación de Responsabilidades [Semi-Senior]
 
 ## 1. Contexto General & Definición del Concepto
-CQRS (Command Query Responsibility Segregation) propone separar las operaciones de lectura (Query) de las de escritura (Command). En sistemas tradicionales, utilizamos el mismo modelo de datos para ambas, lo que genera acoplamiento y cuellos de botella al escalar.
+CQRS (Command Query Responsibility Segregation) propone separar las operaciones de lectura (Query) de las de escritura (Command).
 
-## 2. Forma de Aplicación, Buenas Prácticas & Ventajas
-- **Commands:** Mutan el estado del sistema y no devuelven datos de lectura pesados.
-- **Queries:** Solo leen y retornan DTOs optimizados para la vista sin efectos secundarios.
-
-## 3. Implementación C# .NET 10 y React
-Se implementan handlers independientes con MediatR y hooks en React.
+## 2. Implementación C# .NET 10 y React
+Ejemplo completo con MediatR y hooks React.
