@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1a4a02352cf6189d",
+        "id": "4deac8aab922a0ef",
         "type": "tabs",
         "children": [
           {
-            "id": "1b463720c601d2ea",
+            "id": "26cc383c4b2828cd",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -90,80 +90,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6f52d65f5cce0d6d",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
-            }
-          },
-          {
-            "id": "cbccd9d6fcf3c4f0",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Enlaces salientes"
-            }
-          },
-          {
-            "id": "26a5047f77f73104",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Etiquetas"
-            }
-          },
-          {
-            "id": "6a48fae7464611f3",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "Todas las propiedades"
-            }
-          },
-          {
-            "id": "c3ef150570f92b29",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Esquema"
-            }
-          },
-          {
             "id": "5bb6464f6f781b22",
             "type": "leaf",
             "state": {
@@ -173,12 +99,11 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,8 +117,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bb6464f6f781b22",
+  "active": "2d534746971fbc9b",
   "lastOpenFiles": [
+    "Sin título.canvas",
     "01-Patrones-Distribuidos/repository-uow-vs-efcore.md",
     "01-Patrones-Distribuidos/CQRS-Architecture-Pattern.md",
     "Clean-Onion-Architecture-Distributed.md",
