@@ -193,6 +193,13 @@
   },
   "active": "66b82e5b9b1340c4",
   "lastOpenFiles": [
+    "Arquitectura/03-Architect/Sistemas-Criticos/repository-unit-of-work-principal.md",
+    "Arquitectura/03-Architect/Sistemas-Criticos/EF-Core-DbContext-Arquitectura-Principal.md",
+    "Arquitectura/03-Architect/Sistemas-Criticos/onion-architecture-principal-guide.md",
+    "Arquitectura/03-Architect/Sistemas-Criticos/cqrs-patron-arquitectura-principal.md",
+    "Arquitectura/03-Architect/Sistemas-Criticos/clean-architecture-principal-level.md",
+    "Arquitectura/03-Architect/Sistemas-Criticos",
+    "Arquitectura/03-Architect",
     "Arquitectura/01-SemiSenior/Fundamentos-y-Patrones/Clean-Architecture-Patrones.md",
     "Arquitectura/02-Senior/Patrones-Distribuidos/Rate-Limiting-Throttling-Arquitectura.md",
     "Arquitectura/02-Senior/Patrones-Distribuidos/transactional-outbox-pattern.md",
@@ -216,19 +223,12 @@
     "Arquitectura/01-SemiSenior/Fundamentos-y-Patrones/estrategias-concurrencia-sql-server.md",
     "Arquitectura/01-SemiSenior/Fundamentos-y-Patrones/circuit-breaker-retry-fallback.md",
     "Arquitectura/01-SemiSenior/Fundamentos-y-Patrones/Teorema-CAP-y-PACELC.md",
-    "Arquitectura/01-SemiSenior/Fundamentos-y-Patrones/Idempotencia-en-APIs-y-Consumidores-de-Eventos.md",
-    "Arquitectura/01-SemiSenior/Fundamentos-y-Patrones/Estrategias-Cache-Distribuido.md",
-    "Arquitectura/01-SemiSenior/Fundamentos-y-Patrones/transactional-outbox-pattern-guide.md",
-    "Arquitectura/01-SemiSenior/Fundamentos-y-Patrones/specification-pattern-architecture.md",
-    "Arquitectura/01-SemiSenior/Fundamentos-y-Patrones/saga-pattern-orchestration-vs-choreography.md",
     "Arquitectura/01-SemiSenior/Fundamentos-y-Patrones",
     "Arquitectura/01-SemiSenior",
     "Arquitectura",
     "01-SemiSenior/Sistemas-Distribuidos",
     "01-SemiSenior/Fundamentos-y-Patrones",
     "01-SemiSenior",
-    "Sin título.canvas",
-    "01-Patrones-Distribuidos",
-    "_Contexto"
+    "Sin título.canvas"
   ]
 }
