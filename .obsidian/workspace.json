@@ -193,6 +193,13 @@
   },
   "active": "2101478f6612f036",
   "lastOpenFiles": [
+    "Arquitectura/01-SemiSenior/Fundamentos-y-Patrones/rate-limiting-throttling.md",
+    "Arquitectura/01-SemiSenior/Fundamentos-y-Patrones/paginacion-eficiente-arquitectura.md",
+    "Arquitectura/01-SemiSenior/Fundamentos-y-Patrones/estrategias-concurrencia-sql-server.md",
+    "Arquitectura/01-SemiSenior/Fundamentos-y-Patrones/circuit-breaker-retry-fallback.md",
+    "Arquitectura/01-SemiSenior/Fundamentos-y-Patrones/Teorema-CAP-y-PACELC.md",
+    "Arquitectura/01-SemiSenior/Fundamentos-y-Patrones/Idempotencia-en-APIs-y-Consumidores-de-Eventos.md",
+    "Arquitectura/01-SemiSenior/Fundamentos-y-Patrones/Estrategias-Cache-Distribuido.md",
     "Arquitectura/01-SemiSenior/Fundamentos-y-Patrones/transactional-outbox-pattern-guide.md",
     "Arquitectura/01-SemiSenior/Fundamentos-y-Patrones/specification-pattern-architecture.md",
     "Arquitectura/01-SemiSenior/Fundamentos-y-Patrones/saga-pattern-orchestration-vs-choreography.md",
@@ -219,16 +226,9 @@
     "01-SemiSenior",
     "Sin título.canvas",
     "01-Patrones-Distribuidos/repository-uow-vs-efcore.md",
-    "01-Patrones-Distribuidos/CQRS-Architecture-Pattern.md",
-    "Clean-Onion-Architecture-Distributed.md",
-    "01-Patrones-Distribuidos/onion-architecture-distributed.md",
-    "01-Patrones-Distribuidos/clean-architecture-distributed.md",
-    "01-Patrones-Distribuidos/Circuit-Breaker-Pattern.md",
     "01-Patrones-Distribuidos",
-    "02-Sistemas-Distribuidos/Outbox-Pattern.md",
     "_Contexto",
     "04-Estudio-Casos",
-    "03-Rendimiento-Escalabilidad",
-    "Bienvenido.md"
+    "03-Rendimiento-Escalabilidad"
   ]
 }
