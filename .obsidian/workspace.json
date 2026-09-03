@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "748d311d412105f2",
+        "id": "54f9938dbccce7f6",
         "type": "tabs",
         "children": [
           {
-            "id": "2101478f6612f036",
+            "id": "66b82e5b9b1340c4",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -191,8 +191,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2101478f6612f036",
+  "active": "66b82e5b9b1340c4",
   "lastOpenFiles": [
+    "Arquitectura/01-SemiSenior/Fundamentos-y-Patrones/Clean-Architecture-Patrones.md",
+    "Arquitectura/02-Senior/Patrones-Distribuidos/Rate-Limiting-Throttling-Arquitectura.md",
+    "Arquitectura/02-Senior/Patrones-Distribuidos/transactional-outbox-pattern.md",
+    "Arquitectura/02-Senior/Patrones-Distribuidos/Teorema-CAP-y-PACELC-Senior.md",
+    "Arquitectura/02-Senior/Patrones-Distribuidos/specification-pattern-senior.md",
+    "Arquitectura/02-Senior/Patrones-Distribuidos/Saga-Pattern-Orquestacion-vs-Coreografia.md",
+    "Arquitectura/02-Senior/Patrones-Distribuidos/repository-unit-of-work-pattern-senior.md",
+    "Arquitectura/02-Senior/Patrones-Distribuidos/paginacion-eficiente-distribuida.md",
+    "Arquitectura/02-Senior/Patrones-Distribuidos/idempotencia-apis-eventos-distribuidos.md",
+    "Arquitectura/02-Senior/Patrones-Distribuidos/Estrategias-Cache-Distribuido-Senior.md",
+    "Arquitectura/02-Senior/Patrones-Distribuidos/estrategias-concurrencia-sql-server.md",
+    "Arquitectura/02-Senior/Patrones-Distribuidos/CQRS-Arquitectura-Distribuida.md",
+    "Arquitectura/02-Senior/Patrones-Distribuidos/Clean-Architecture-Senior-Implementation.md",
+    "Arquitectura/02-Senior/Patrones-Distribuidos/EF-Core-DbContext-Arquitectura-Avanzada.md",
+    "Arquitectura/02-Senior/Patrones-Distribuidos/Circuit-Breaker-Retry-Fallback.md",
+    "Arquitectura/02-Senior/Patrones-Distribuidos",
+    "Arquitectura/02-Senior",
+    "Arquitectura/01-SemiSenior/Fundamentos-y-Patrones/EF-Core-DbContext-Arquitectura.md",
     "Arquitectura/01-SemiSenior/Fundamentos-y-Patrones/rate-limiting-throttling.md",
     "Arquitectura/01-SemiSenior/Fundamentos-y-Patrones/paginacion-eficiente-arquitectura.md",
     "Arquitectura/01-SemiSenior/Fundamentos-y-Patrones/estrategias-concurrencia-sql-server.md",
@@ -203,32 +221,14 @@
     "Arquitectura/01-SemiSenior/Fundamentos-y-Patrones/transactional-outbox-pattern-guide.md",
     "Arquitectura/01-SemiSenior/Fundamentos-y-Patrones/specification-pattern-architecture.md",
     "Arquitectura/01-SemiSenior/Fundamentos-y-Patrones/saga-pattern-orchestration-vs-choreography.md",
-    "Arquitectura/01-SemiSenior/Fundamentos-y-Patrones/repository-unit-of-work-pattern.md",
-    "Arquitectura/01-SemiSenior/Fundamentos-y-Patrones/cqrs-patron-arquitectura.md",
-    "Arquitectura/01-SemiSenior/Fundamentos-y-Patrones/Clean-Architecture-Patrones.md",
-    "Arquitectura/01-SemiSenior/Fundamentos-y-Patrones/Onion-Architecture-Fundamentos-y-Estructura.md",
-    "Arquitectura/01-SemiSenior/Fundamentos-y-Patrones/clean-architecture-fundamentos.md",
     "Arquitectura/01-SemiSenior/Fundamentos-y-Patrones",
     "Arquitectura/01-SemiSenior",
     "Arquitectura",
-    "01-SemiSenior/Sistemas-Distribuidos/transactional-outbox-pattern.md",
     "01-SemiSenior/Sistemas-Distribuidos",
-    "01-SemiSenior/Fundamentos-y-Patrones/cqrs-pattern-implementation.md",
-    "01-SemiSenior/Fundamentos-y-Patrones/CQRS-Patron-Implementacion-Practica.md",
-    "01-SemiSenior/Fundamentos-y-Patrones/transactional-outbox-pattern.md",
-    "01-SemiSenior/Fundamentos-y-Patrones/specification-pattern-dotnet-react.md",
-    "01-SemiSenior/Fundamentos-y-Patrones/saga-pattern-implementacion.md",
-    "01-SemiSenior/Fundamentos-y-Patrones/EF-Core-DbContext-Pattern.md",
-    "01-SemiSenior/Fundamentos-y-Patrones/repository-unit-of-work-pattern.md",
-    "01-SemiSenior/Fundamentos-y-Patrones/onion-architecture.md",
-    "01-SemiSenior/Fundamentos-y-Patrones/Clean-Architecture-Fundamentos.md",
     "01-SemiSenior/Fundamentos-y-Patrones",
     "01-SemiSenior",
     "Sin título.canvas",
-    "01-Patrones-Distribuidos/repository-uow-vs-efcore.md",
     "01-Patrones-Distribuidos",
-    "_Contexto",
-    "04-Estudio-Casos",
-    "03-Rendimiento-Escalabilidad"
+    "_Contexto"
   ]
 }
